@@ -8,4 +8,4 @@
 - Primitivos booleanos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/variables/PrimitivosBoolean.java
 
   ## Strings
-  - Ejemplos de Strings https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploString.java
+- Ejemplos de Strings https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploString.java
