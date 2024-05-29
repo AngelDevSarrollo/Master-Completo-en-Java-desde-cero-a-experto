@@ -8,6 +8,7 @@
 - Primitivos booleanos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/variables/PrimitivosBoolean.java
 - Sistemas Numericos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/variables/SistemasNumericos.java
 - Sistemas Numericos Scanner https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/variables/SistemasNumericosScanner.java
+- Conversion de tipos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/variables/ConversionDeTipos.java
 
   ## Strings
 - Ejemplos de Strings https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploString.java
