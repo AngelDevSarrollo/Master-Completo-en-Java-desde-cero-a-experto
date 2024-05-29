@@ -12,3 +12,6 @@
 
   ## Strings
 - Ejemplos de Strings https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploString.java
+
+## Operadores
+- Operadores aritmeticos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadorAritmetico.java
