@@ -6,6 +6,7 @@
 - Primitivos numericos flotantes https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/variables/PrimitivosFloat.java
 - Char https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/variables/Caracteres.java
 - Primitivos booleanos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/variables/PrimitivosBoolean.java
+- Sistemas Numericos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/variables/SistemasNumericos.java
 
   ## Strings
 - Ejemplos de Strings https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploString.java
