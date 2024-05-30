@@ -17,6 +17,7 @@
 - Test Rendimiento https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploStringTestRendimientoConcat.java
 - Validar un string https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploStringValidar.java
 - Metodos importantes del objeto string https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploStringMetodos.java
+- Extensino de archivo https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploStringExtensionArchivo.java
 
 ## Operadores
 - Operadores aritmeticos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadorAritmetico.java
