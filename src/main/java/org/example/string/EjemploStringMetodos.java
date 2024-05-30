@@ -25,5 +25,23 @@ public class EjemploStringMetodos {
         System.out.println("nombre.substring() = " + nombre.substring(1));
         //De este modo podemos acotra lo que queremos que se imprima
         System.out.println("nombre = " + nombre.substring(1,5));
+
+        String trabalenguas = "trabalenguas";
+        //El metodo replace se utiliza para sustituir caracteres. El primero es el que queremos cambiar
+        System.out.println("trabalenguas = " + trabalenguas.replace("a","."));
+        //El metodo .indexOf nos dice si hay algun caracter o frase en el objeto string, retorna la posicion de la primera coincidencia
+        System.out.println("trabalenguas.indexOf() = " + trabalenguas.indexOf('a'));
+        //el metodo .lastIndexOf nos da la posicion de la ultima coincidencia. En los dos casos si no encuentra nada nos devolvera un -1
+        System.out.println("trabalenguas.lastIndexOf('a') = " + trabalenguas.lastIndexOf('a'));
+        //El metodo .contains() nos dice si esta o no
+        System.out.println("trabalenguas.contains(\"a\") = " + trabalenguas.contains("a"));
+        //El metodo .startsWith("") nos dice si comienza o no con el caracter o caracteres que le indiquemos
+        System.out.println("trabalenguas.startsWith(\"lenguas\") = " + trabalenguas.startsWith("lenguas"));
+        //nos indica si termina con ....
+        System.out.println("trabalenguas.endsWith() = " + trabalenguas.endsWith("lenguas"));
+        //El metodo .trim() elimina espacios en blanco
+        System.out.println("     trabalenguas     ");
+        System.out.println("     trabalenguas     ".trim());
+        
     }
 }
