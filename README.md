@@ -26,6 +26,7 @@
 - Operadores Unarios https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadoresUnarios.java
 - Operadores de incremento y decremento https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadoresIncrementales.java
 - Operadores Relacionales https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadoresRelacionales.java
+- Operadores Logicos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadoresLogicos.java
 
 ## Flujos de control
 - if else https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosDeControl/SentenciaIfElse.java
