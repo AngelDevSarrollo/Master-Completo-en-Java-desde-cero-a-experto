@@ -28,6 +28,7 @@
 - Operadores Relacionales https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadoresRelacionales.java
 - Operadores Logicos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadoresLogicos.java
 - Ejemplo login https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadoresLogicosLogin.java
+- Operadores ternarios https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadorTernario.java
 
 ## Flujos de control
 - if else https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosDeControl/SentenciaIfElse.java
