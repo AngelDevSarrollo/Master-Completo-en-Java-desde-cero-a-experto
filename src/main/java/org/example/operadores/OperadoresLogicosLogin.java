@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class OperadoresLogicosLogin {
     public static void main(String[] args) {
-        String username = "angel";
-        String password = "12345";
+        String[] username ={ "angel", "carlos", "admin"};
+        String[] password = {"12345", "123", "2345"};
 
         Scanner scanner = new Scanner(System.in);
 
@@ -17,7 +17,14 @@ public class OperadoresLogicosLogin {
 
         boolean esAutenticado = false;
 
-        if(username.equals(usuario) && password.equals(p)){
+        for(int i = 0; i< username.length; i++){
+            if( (username[i].equals(usuario) && password[i].equals(p)) ){
+                esAutenticado = true;
+                break;
+            }
+        }
+
+        if(esAutenticado){
             esAutenticado =true;
         }
         if (esAutenticado == true){
