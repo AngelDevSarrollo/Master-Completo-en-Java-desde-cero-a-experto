@@ -1,3 +1,4 @@
+
 package org.example.operadores;
 
 import java.util.Scanner;
@@ -18,13 +19,16 @@ public class OperadoresLogicosLogin {
         boolean esAutenticado = false;
 
         for(int i = 0; i< username.length; i++){
+            esAutenticado = (username[i].equals(usuario) && password[i].equals(p))? true: false;
+
+            /*
             if( (username[i].equals(usuario) && password[i].equals(p)) ){
                 esAutenticado = true;
                 break;
-            }
+            }*/
         }
-
-        if(esAutenticado){
+        String mensaje = esAutenticado ? "Bienvenido usuario ".concat(usuario).concat("!") : "Usuario o contraseña no valido";
+        /*if(esAutenticado){
             esAutenticado =true;
         }
         if (esAutenticado == true){
@@ -32,6 +36,6 @@ public class OperadoresLogicosLogin {
         }else {
             System.out.println("Usuario o contraseña no valido");
 
-        }
+        }*/
     }
 }
