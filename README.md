@@ -30,6 +30,7 @@
 - Ejemplo login https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadoresLogicosLogin.java
 - Operadores ternarios https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadorTernario.java
 - Operadores tenarios numero mayor https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadorTernarioNumeroMayor.java
+- Operador Instance of https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadorInstanceOf.java
 
 ## Flujos de control
 - if else https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosDeControl/SentenciaIfElse.java
