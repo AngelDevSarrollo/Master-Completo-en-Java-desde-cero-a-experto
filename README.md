@@ -42,6 +42,7 @@
 - For https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosDeControl/SentenciaFor.java
 - sentencia For Arreglos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosDeControl/SentenciaForArreglo.java
 - while https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosDeControl/SentenciaWhile.java
+- ForEach https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosDeControl/SentenciaForEach.java
   
 ## Clases Wrapper
 - Wrapper Integer https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/wrapper/WrapperInteger.java
