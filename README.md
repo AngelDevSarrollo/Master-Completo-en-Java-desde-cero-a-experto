@@ -51,3 +51,4 @@
 - Autoboxing Integer https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/wrapper/AutoboxinInteger.java
 - Wrapper operadores relacionales https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/wrapper/WrapperOperadoresRelacionales.java
 - Wrapper Boolean https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/wrapper/WrapperBoolean.java
+- Metodo getClass https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/wrapper/EjemploMetodoGetClass.java
