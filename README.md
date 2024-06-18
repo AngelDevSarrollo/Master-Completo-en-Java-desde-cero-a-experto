@@ -18,7 +18,7 @@
 - Validar un string https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploStringValidar.java
 - Metodos importantes del objeto string https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploStringMetodos.java
 - Extensino de archivo https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploStringExtensionArchivo.java
-- Metodo Arreglos
+- Metodo Arreglos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/string/EjemploStringMetodosArreglos.java
 
 ## Operadores
 - Operadores aritmeticos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/OperadorAritmetico.java
@@ -52,3 +52,6 @@
 - Wrapper operadores relacionales https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/wrapper/WrapperOperadoresRelacionales.java
 - Wrapper Boolean https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/wrapper/WrapperBoolean.java
 - Metodo getClass https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/wrapper/EjemploMetodoGetClass.java
+
+## Valor vs Referencias
+- Pasar por valor https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/valorVsReferencia/PasarPorValor.java
