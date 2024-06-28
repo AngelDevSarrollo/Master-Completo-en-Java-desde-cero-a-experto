@@ -55,3 +55,4 @@
 
 ## Valor vs Referencias
 - Pasar por valor https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/valorVsReferencia/PasarPorValor.java
+- Pasar por referencia https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/valorVsReferencia/PasarPorReferencia.java
