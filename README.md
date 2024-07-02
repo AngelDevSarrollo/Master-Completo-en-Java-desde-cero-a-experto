@@ -62,3 +62,6 @@
 - Ejemplo Date Java Util https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/date/EjemploJavaUtilDate.java
 - Ejemplo Calendar Java Util https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/date/EjemploJavaUtilCalendar.java
 - Ejemplo Date Parse Comparar https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/date/EjemploJavaUtilDateParse.java
+
+## System
+- Obtener propiedades del sistema https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/sistem/EjemploPropiedadesDeSistema.java
