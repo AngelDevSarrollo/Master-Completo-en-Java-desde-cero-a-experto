@@ -1,4 +1,4 @@
-package org.example.sistem;
+package org.example.system;
 
 import java.util.Properties;
 
