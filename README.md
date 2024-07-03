@@ -71,3 +71,4 @@
 
 ## Math
 - Ejemplo clase Math https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/math/EjemploClaseMath.java
+- Ejemplo Math Random https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/math/EjemploClaseMathRandom.java
