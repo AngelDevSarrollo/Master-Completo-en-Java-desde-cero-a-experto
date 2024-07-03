@@ -66,3 +66,4 @@
 ## System
 - Obtener propiedades del sistema https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/sistem/EjemploPropiedadesDeSistema.java
 - Customizar propiedades del sistema https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/system/EjemploAsignarPropiedadesDeSistema.java
+- Obtener las variables de ambiente del sistema https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/system/EjemploVariableDeEntrorno.java
