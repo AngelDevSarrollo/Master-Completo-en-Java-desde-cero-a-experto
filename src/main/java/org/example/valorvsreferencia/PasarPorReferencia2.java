@@ -1,4 +1,4 @@
-package org.example.valor.vs.referencia;
+package org.example.valorvsreferencia;
 class Persona{
     private String nombre;
 

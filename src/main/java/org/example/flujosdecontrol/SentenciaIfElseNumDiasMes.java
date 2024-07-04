@@ -1,4 +1,4 @@
-package org.example.flujos.de.control;
+package org.example.flujosdecontrol;
 
 import java.util.Scanner;
 

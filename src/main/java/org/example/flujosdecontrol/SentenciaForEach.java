@@ -1,4 +1,4 @@
-package org.example.flujos.de.control;
+package org.example.flujosdecontrol;
 
 public class SentenciaForEach {
     public static void main(String[] args) {
