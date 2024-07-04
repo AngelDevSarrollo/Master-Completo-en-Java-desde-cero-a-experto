@@ -35,16 +35,16 @@
 - [**Preferencia Operadores**](https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/operadores/PreferenciaOperadores.java)
 
 ## Flujos de control
-- if else https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujos/de/control/SentenciaIfElse.java
-- if else año bisiesto https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujos/de/control/SentenciaIfElseNumDiasMes.java
-- Swich case https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujos/de/control/SentenciaSwitchCase.java
-- Swich case ejemplo https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujos/de/control/SentenciaSwitchCaseNumDiasMes.java
-- For https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujos/de/control/SentenciaForArreglo.java
-- Sentencia For Arreglos https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujos/de/control/SentenciaForArreglo.java 
-- While https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujos/de/control/SentenciaWhile.java
-- ForEach https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujos/de/control/SentenciaForEach.java
-- Etiquetas https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujos/de/control/SentenciasBucleEtiquetas.java
-- Buscar sentencia bucle https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujos/de/control/SentenciasBucleEtiquetasBuscar.java
+- [**if else**](https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosdecontrol/SentenciaIfElse.java)
+- [**if else año bisiesto**](https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosdecontrol/SentenciaIfElseNumDiasMes.java)
+- [**Swich case**](https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosdecontrol/SentenciaSwitchCase.java)
+- [**Swich case ejemplo**](https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosdecontrol/SentenciaSwitchCaseNumDiasMes.java) 
+- [**For**](https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosdecontrol/SentenciaFor.java)
+- [**Sentencia For Arreglos**](https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosdecontrol/SentenciaForArreglo.java)
+- [**While**](https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosdecontrol/SentenciaWhile.java)
+- [**ForEach**](https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosdecontrol/SentenciaForEach.java)
+- [**Etiquetas**](https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosdecontrol/SentenciasBucleEtiquetas.java)
+- [**Buscar sentencia bucle**](https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/flujosdecontrol/SentenciasBucleEtiquetasBuscar.java)
   
 ## Clases Wrapper
 - Wrapper Integer https://github.com/AngelDevSarrollo/Master-Completo-en-Java-desde-cero-a-experto/blob/master/src/main/java/org/example/wrapper/WrapperInteger.java
