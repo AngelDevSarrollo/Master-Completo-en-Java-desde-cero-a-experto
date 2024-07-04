@@ -1,4 +1,4 @@
-package org.example.valorVsReferencia;
+package org.example.valor.vs.referencia;
 
 public class PasarPorReferencia {
     public static void main(String[] args) {

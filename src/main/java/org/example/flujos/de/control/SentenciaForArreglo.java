@@ -1,4 +1,4 @@
-package org.example.flujosDeControl;
+package org.example.flujos.de.control;
 
 import javax.swing.*;
 
