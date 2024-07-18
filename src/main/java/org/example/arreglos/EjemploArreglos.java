@@ -18,6 +18,5 @@ public class EjemploArreglos {
         System.out.println("j = " + j);
         System.out.println("k = " + k);
         System.out.println("l = " + l);
-
     }
 }
