@@ -5,6 +5,9 @@ public class EjemploArreglos {
         String[] productos = new String[7];
 
         System.out.println("productos[0] = " + productos[0]);
+        System.out.println("productos[0] = " + productos[1]);
+        System.out.println("productos[0] = " + productos[2]);
+        System.out.println("productos[0] = " + productos[3]);
 
         int[] numeros = new int[4];
 
