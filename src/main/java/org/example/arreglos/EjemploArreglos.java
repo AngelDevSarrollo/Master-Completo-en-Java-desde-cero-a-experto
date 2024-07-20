@@ -2,6 +2,10 @@ package org.example.arreglos;
 
 public class EjemploArreglos {
     public static void main(String[] args) {
+        String[] productos = new String[7];
+
+        System.out.println("productos[0] = " + productos[0]);
+
         int[] numeros = new int[4];
 
         numeros[0] = 1;
